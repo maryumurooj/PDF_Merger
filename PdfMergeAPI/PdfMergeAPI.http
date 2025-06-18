@@ -1,0 +1,6 @@
+@PdfMergeAPI_HostAddress = http://localhost:5207
+
+GET {{PdfMergeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
