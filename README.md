@@ -113,11 +113,6 @@ You can [watch the full video demo here][(#)](https://drive.google.com/file/d/1-
 
 ---
 
-## 📜 License
-
-MIT License — feel free to use, modify, and share!
-
----
 
 
 
