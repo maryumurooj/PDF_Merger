@@ -62,6 +62,11 @@ body {
   animation-delay: 1s;
 }
 
+.subtitle{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
 /* Main content */
 .main-content {
   position: relative;

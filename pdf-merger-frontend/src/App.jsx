@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Upload, FileText, Download, Eye, X, Plus } from "lucide-react";
+import { Upload, FileText, Download, Eye, X, Plus, Subtitles } from "lucide-react";
 import "./App.css";
 
 function App() {
@@ -100,6 +100,7 @@ function App() {
 
       <div className="main-content">
         {/* Header */}
+       
         <div className="header">
           <div className="header-icon">
             <FileText size={32} color="white" />
@@ -208,6 +209,9 @@ function App() {
           </div>
         )}
       </div>
+      <div className="subtitle">
+          MARYUM UROOJ _ POC
+        </div>
     </div>
   );
 }
