@@ -6,9 +6,9 @@ A lightweight web-based tool that allows users to **upload multiple PDF files** 
 
 ## 🎬 Demo
 
-![Watch the Demo](demo.gif)  
+![Watch the Demo](https://drive.google.com/file/d/1-vZx2zjosBEDpqCewY7zYb_p7nEJdVTp/view?usp=sharing)  
 <!-- Replace the line above with actual video embedding if hosting on YouTube or Loom -->
-[📺 Watch Video Demo](#) <!-- Replace `#` with your video link -->
+[📺 Watch Video Demo](https://drive.google.com/file/d/1-vZx2zjosBEDpqCewY7zYb_p7nEJdVTp/view?usp=sharing) <!-- Replace `#` with your video link -->
 
 ---
 
